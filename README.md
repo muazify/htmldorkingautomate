@@ -73,4 +73,8 @@ Contributions are welcome! If you have ideas for new dork templates, improvement
 * Push to the branch (`git push origin feature/YourFeature`).
 * Open a Pull Request.
 
-  
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
