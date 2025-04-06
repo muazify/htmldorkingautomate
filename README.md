@@ -58,7 +58,5 @@ This tool provides a simple web interface to generate and execute numerous Googl
     * Analyze the results in the newly opened tabs.
 
 ## 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/864b325f-6917-4ea4-91f4-4b2b927fa335)
 
-*(Suggestion: Add a screenshot of the tool's interface here)*
-```html
-<img src="path/to/your/screenshot.png" alt="Tool Interface Screenshot" width="600"/>
