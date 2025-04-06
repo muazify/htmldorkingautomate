@@ -60,3 +60,17 @@ This tool provides a simple web interface to generate and execute numerous Googl
 ## 🖼️ Screenshot
 ![image](https://github.com/user-attachments/assets/864b325f-6917-4ea4-91f4-4b2b927fa335)
 
+## ⚠️ Disclaimer
+This tool is provided for educational and legitimate security research purposes only. DO NOT use this tool to conduct unauthorized scanning or searching against systems you do not have explicit permission to test. Misuse of Google Dorking techniques can lead to unintentional access to sensitive information and may be illegal in your jurisdiction. The user assumes all responsibility for their actions when using this tool. Always act ethically and legally.
+
+## 🤝 Contributing
+Contributions are welcome! If you have ideas for new dork templates, improvements to the JavaScript logic, or UI enhancements, feel free to:
+
+* Fork the repository.
+* Create a new branch (`git checkout -b feature/YourFeature`).
+* Make your changes.
+* Commit your changes (`git commit -m 'Add some feature'`).
+* Push to the branch (`git push origin feature/YourFeature`).
+* Open a Pull Request.
+
+  
